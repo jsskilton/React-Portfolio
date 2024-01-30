@@ -14,13 +14,13 @@ This project's aim is to create a portfolio to showcase work completed.
 The navigation bar at the top of the page takes you to the three pages: home, project gallery and contact.
 
 Home page:
-![screenshot of homepage](data/images/ScreenshotHome.PNG)
+![screenshot of homepage](/src/data/images/ScreenshotHome.PNG)
 
 Project gallery:
-![screenshot of project gallery](data/images/ScreenshotProject.PNG)
+![screenshot of project gallery](/src/data/images/ScreenshotProject.PNG)
 
 Contact:
-![screenshot of project gallery](data/images/ScreenshotContact.PNG)
+![screenshot of project gallery](src/data/images/ScreenshotContact.PNG)
 
 ## Credits
 
