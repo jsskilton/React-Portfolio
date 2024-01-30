@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Weather-Dashboard",
         "description": "A website showing a 5 Day Weather Forecast",
-        "image": "../assets/images/project-1.png",
+        "image": "/images/project-1.png",
         "deployedAppURL": "https://jsskilton.github.io/Weather-Dashboard/",
         "repositoryURL":"https://github.com/jsskilton/Weather-Dashboard"
     },

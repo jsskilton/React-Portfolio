@@ -1,13 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import * as boostrap from 'bootstrap';
 
-
-// function App() {
-//   return <div>This is my portfolio</div>
-// }
-
-// export default App
-
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 import NavBar from './components/NavBar';
@@ -16,14 +9,17 @@ import ProjectsGallery from './pages/ProjectsGallery';
 import Contact from './pages/Contact'
 
 function App() {
-    return <Router>
-        <NavBar />
+    
+    return <>
+    <NavBar />
+
+        
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects-gallery" element={<ProjectsGallery />} />
             <Route path="/contact" element={<Contact />} />
         </Routes>
-    </Router>;
+    </>
 }
 
 export default App
