@@ -24,7 +24,7 @@ Project gallery:
 Contact:
 ![screenshot of project gallery](src/data/images/ScreenshotContact.PNG)
 
-Within the contact page there is a form to handle message - this currently gets console logged:
+Within the contact page there is a form to handle messages - this currently gets console logged:
 ![screenshot of project gallery](src/data/images/ScreenshotForm.PNG)
 
 ## Credits
