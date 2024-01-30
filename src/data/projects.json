@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Weather-Dashboard",
+        "description": "A website showing a 5 Day Weather Forecast",
+        "image": "/images/project-1.png",
+        "deployedAppURL": "https://jsskilton.github.io/Weather-Dashboard/",
+        "repositoryURL":"https://github.com/jsskilton/Weather-Dashboard"
+    },
+    {
+        "id": 2,
+        "title": "Work-Day-Scheduler",
+        "description": "A simple calendar application that allows a user to save events for each hour of the day",
+        "image": "../assets/images/project-2.png",
+        "deployedAppURL": "https://jsskilton.github.io/Work-Day-Scheduler/",
+        "repositoryURL":"https://github.com/jsskilton/Work-Day-Scheduler"
+    },
+    {
+        "id": 3,
+        "title": "Team-Profile-Generator",
+        "description": "Application that will take in information about employees on a software engineering team, then generate an HTML webpage that displays summaries for each person.",
+        "image": "../assets/images/project-3.png",
+        "deployedAppURL": "https://github.com/jsskilton/Team-Profile-Generator",
+        "repositoryURL":"https://github.com/jsskilton/Team-Profile-Generator"
+    },
+    {
+        "id": 4,
+        "title": "movieMoment",
+        "description": "This project aims to create a movie dashboard with form inputs. When a user searches for a movie they are presented with a list of options. On selection, information about the movie is displayed along with the trailer.",
+        "image": "../assets/images/project-4.png",
+        "deployedAppURL": "meisterstu.github.io/movieMoment/",
+        "repositoryURL":"https://github.com/Meisterstu/movieMoment"
+    },
+    {
+        "id": 5,
+        "title": "Code-Quiz",
+        "description": "This project aims create a timed quiz in which the app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.",
+        "image": "../assets/images/project-5.png",
+        "deployedAppURL": "https://jsskilton.github.io/Code-Quiz/",
+        "repositoryURL":"https://github.com/jsskilton/Code-Quiz"
+    },
+    {
+        "id": 6,
+        "title": "Password-Generator",
+        "description": "This project aims to create a website to generate a random password based on a set of characters dictated by user input.",
+        "image": "../assets/images/project-6.png",
+        "deployedAppURL": "https://jsskilton.github.io/Password-Generator/",
+        "repositoryURL":"https://github.com/jsskilton/Password-Generator"
+    }
+]
