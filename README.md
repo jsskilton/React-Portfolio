@@ -11,6 +11,8 @@ This project's aim is to create a portfolio to showcase work completed.
 - [Badges](#badges)
 
 ## Usage
+The application can be accessed through: https://jsskilton.github.io/React-Portfolio/
+
 The navigation bar at the top of the page takes you to the three pages: home, project gallery and contact.
 
 Home page:
@@ -21,6 +23,9 @@ Project gallery:
 
 Contact:
 ![screenshot of project gallery](src/data/images/ScreenshotContact.PNG)
+
+Within the contact page there is a form to handle message - this currently gets console logged:
+![screenshot of project gallery](src/data/images/ScreenshotForm.PNG)
 
 ## Credits
 
