@@ -130,7 +130,7 @@ const Contact = () => {
 
             <div style={{ padding: '20px', color: 'white', marginBottom: '50px', textAlign: 'center' }}>
                 <h2 style={{ marginBottom: '20px' }}>See My CV</h2>
-                <a href="../data/images/me.jpg" target="_blank" rel="noopener noreferrer" style={{ color: 'white', textDecoration: 'none' }}>
+                <a href="/CV_filler.pdf" target="_blank" rel="noopener noreferrer" style={{ color: 'white', textDecoration: 'none' }}>
                     <FaFilePdf size={30} />
                 </a>
             </div>
